@@ -1,7 +1,13 @@
 # kicad-3dmodels
 
 Bourns Multi turn Trim Potentiometers:
-![Bourns](https://github.com/dhaillant/kicad-3dmodels/raw/master/bourns/bourns.png)
+![Bourns](https://github.com/dhaillant/kicad-3dmodels/raw/master/bourns/bourns-small.png)
 
 Lumberg LUMBERG-NEB-21-R DC Power Barrel Jack Connector:
-![LUMBERG-NEB-21-R](https://github.com/dhaillant/kicad-3dmodels/raw/master/conn-jacks/LUMBERG-NEB-21-R.png)
+![LUMBERG-NEB-21-R](https://github.com/dhaillant/kicad-3dmodels/raw/master/conn-jacks/LUMBERG-NEB-21-R-small.png)
+
+PTF/78 5x20 Fuse Holder from https://www.stelvio-kontek.com/:
+![PTF/78](https://github.com/dhaillant/kicad-3dmodels/raw/master/fuses/FUSE-HOLDER-PTF78-small.png)
+
+ALPS 9mm, single turn, plastic shaft, vertical potentiometer RK09K:
+![PTF/78](https://github.com/dhaillant/kicad-3dmodels/raw/master/potentiometers/ALPS-RK09K-small.png)
