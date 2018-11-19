@@ -26,3 +26,7 @@ Lumberg LUMBERG-NEB-21-R DC Power Barrel Jack Connector:
 PTF/78 5x20 Fuse Holder from https://www.stelvio-kontek.com/:
 
 ![PTF/78](https://github.com/dhaillant/kicad-3dmodels/raw/master/fuses/FUSE-HOLDER-PTF78-small.png)
+
+C&K D6R Push button switch:
+
+![D6R](https://github.com/dhaillant/kicad-3dmodels/blob/master/switches/push/d6r_3.png)
