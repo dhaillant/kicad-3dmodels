@@ -5,9 +5,11 @@ ALPHA / ALPS 9mm single turn Potentiometers:
 ![Vertical](https://github.com/dhaillant/kicad-3dmodels/raw/master/potentiometers/ALPHA-RD901F-40-small.png)
 
 Single unit, horizontal:
+
 ![Horizontal](https://github.com/dhaillant/kicad-3dmodels/raw/master/potentiometers/ALPS-RK097-small.png)
 
 Double unit, horizontal:
+
 ![Horizontal](https://github.com/dhaillant/kicad-3dmodels/raw/master/potentiometers/ALPS-RK09712-small.png)
 
 ALPS 9mm, single turn, plastic shaft, vertical potentiometer RK09K:
@@ -19,6 +21,7 @@ Bourns Multi turn Trim Potentiometers:
 ![Bourns](https://github.com/dhaillant/kicad-3dmodels/raw/master/bourns/bourns-small.png)
 
 Cliff CL1384 3.5mm Mono Jack Connector:
+
 ![Cliff](https://github.com/dhaillant/kicad-3dmodels/raw/master/conn-jacks/CLIFF-CL1384-small.png)
 
 Lumberg LUMBERG-NEB-21-R DC Power Barrel Jack Connector:
