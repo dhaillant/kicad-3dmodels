@@ -34,4 +34,4 @@ PTF/78 5x20 Fuse Holder from https://www.stelvio-kontek.com/:
 
 C&K D6R Push button switch:
 
-![D6R](https://github.com/dhaillant/kicad-3dmodels/blob/master/switches/push/d6r_3.png)
+![D6R](https://github.com/dhaillant/kicad-3dmodels/blob/master/switches/push/d6r_3-small.png)
