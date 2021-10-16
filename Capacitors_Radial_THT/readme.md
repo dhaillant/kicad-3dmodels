@@ -4,3 +4,5 @@
 
 
 Generated with https://github.com/dhaillant/kicad-3d-models-in-freecad
+
+Dimensions based on Nichicon UVZ series (https://www.nichicon.co.jp/english/products/pdfs/e-uvz.pdf)
